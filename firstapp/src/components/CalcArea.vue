@@ -22,7 +22,7 @@
   </template>
   
   <script>
-  import NumButton from './NumButton.vue';
+  import NumButton from './Numbutton.vue';
   
   export default {
     components: {

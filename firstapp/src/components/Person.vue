@@ -22,8 +22,8 @@ export default {
     },
     methods: {
         fetchKullanicilar() {
-            // API'den kullanıcıları getirme işlemi
-            // Bu kısmı kendi API'nize göre düzenlemeniz gerekmektedir
+            //"https://github.com/Ebu13/DjangoProjects/tree/main/api_project" 
+            //was included in the project with the API in the Django project at this address.
             fetch("http://localhost:8000/api/kullanicilar/")
                 .then(response => response.json())
                 .then(data => {

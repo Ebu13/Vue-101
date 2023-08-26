@@ -2,8 +2,8 @@
   <div>
     <!--<input type="text" v-model="inputText">
     <Text :msg="inputText" />-->
-    <CalcArea />
-    <Calculator />
+    <!--<CalcArea />
+    <Calculator />-->
     <Person />
   </div>
 </template>

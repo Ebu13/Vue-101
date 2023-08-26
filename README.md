@@ -1,2 +1,2 @@
-# Vue-101
+# Beginner Level Vue-Projects
 Projects I did while I was learning Vue.js
